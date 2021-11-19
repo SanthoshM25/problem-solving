@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 void searchRange(int* nums, int target) {
         int s = 0, e = 6;
         int res[2];
